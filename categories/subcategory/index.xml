@@ -6,17 +6,26 @@
     <description>Recent content in subcategory on Dmm&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Dec 2019 19:34:34 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 19:36:31 +0800</lastBuildDate>
     
 	<atom:link href="https://dumm0.github.io/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Readme</title>
-      <link>https://dumm0.github.io/2019/12/readme/</link>
-      <pubDate>Mon, 16 Dec 2019 19:34:34 +0800</pubDate>
+      <title>Test2</title>
+      <link>https://dumm0.github.io/2019/12/26/</link>
+      <pubDate>Thu, 26 Dec 2019 19:36:31 +0800</pubDate>
       
-      <guid>https://dumm0.github.io/2019/12/readme/</guid>
+      <guid>https://dumm0.github.io/2019/12/26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://dumm0.github.io/2019/12/26/</link>
+      <pubDate>Thu, 26 Dec 2019 19:36:24 +0800</pubDate>
+      
+      <guid>https://dumm0.github.io/2019/12/26/</guid>
       <description></description>
     </item>
     
