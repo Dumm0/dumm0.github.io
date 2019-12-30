@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Dmm&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Dec 2019 13:28:02 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2019 14:05:41 +0800</lastBuildDate>
     
 	<atom:link href="https://dumm0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>文章</title>
       <link>https://dumm0.github.io/categories/%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Sat, 28 Dec 2019 13:28:02 +0800</pubDate>
+      <pubDate>Mon, 30 Dec 2019 14:05:41 +0800</pubDate>
       
       <guid>https://dumm0.github.io/categories/%E6%96%87%E7%AB%A0/</guid>
       <description></description>
@@ -23,27 +23,27 @@
     <item>
       <title>置顶</title>
       <link>https://dumm0.github.io/categories/%E7%BD%AE%E9%A1%B6/</link>
-      <pubDate>Sat, 28 Dec 2019 13:28:02 +0800</pubDate>
+      <pubDate>Mon, 30 Dec 2019 14:05:41 +0800</pubDate>
       
       <guid>https://dumm0.github.io/categories/%E7%BD%AE%E9%A1%B6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>category</title>
-      <link>https://dumm0.github.io/categories/category/</link>
-      <pubDate>Sat, 28 Dec 2019 13:27:02 +0800</pubDate>
+      <title>博客搭建</title>
+      <link>https://dumm0.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Sat, 28 Dec 2019 14:20:57 +0800</pubDate>
       
-      <guid>https://dumm0.github.io/categories/category/</guid>
+      <guid>https://dumm0.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>subcategory</title>
-      <link>https://dumm0.github.io/categories/subcategory/</link>
-      <pubDate>Sat, 28 Dec 2019 13:27:02 +0800</pubDate>
+      <title>教程</title>
+      <link>https://dumm0.github.io/categories/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Sat, 28 Dec 2019 14:20:57 +0800</pubDate>
       
-      <guid>https://dumm0.github.io/categories/subcategory/</guid>
+      <guid>https://dumm0.github.io/categories/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     

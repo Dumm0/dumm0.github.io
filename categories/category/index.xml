@@ -6,18 +6,19 @@
     <description>Recent content in category on Dmm&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Dec 2019 13:27:02 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2019 13:30:41 +0800</lastBuildDate>
     
 	<atom:link href="https://dumm0.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo搭建博客教程</title>
-      <link>https://dumm0.github.io/2019/12/28/</link>
-      <pubDate>Sat, 28 Dec 2019 13:27:02 +0800</pubDate>
+      <title>置顶</title>
+      <link>https://dumm0.github.io/2019/12/30/</link>
+      <pubDate>Mon, 30 Dec 2019 13:30:41 +0800</pubDate>
       
-      <guid>https://dumm0.github.io/2019/12/28/</guid>
-      <description></description>
+      <guid>https://dumm0.github.io/2019/12/30/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;    About something, About me.
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>
